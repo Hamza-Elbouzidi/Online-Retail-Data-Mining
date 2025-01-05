@@ -1,0 +1,7 @@
+Feature extraction :
+TF - IDFC - RF
+Feature selection : 
+Kl 2 - IM - GI
+CM : 
+Naive bays
+SVM
