@@ -1,7 +1,8 @@
 Feature extraction :
-TF - IDFC - RF
+TF - IDF - RF
 Feature selection : 
-Kl 2 - IM - GI
+Kl 2 - IM - GI or Firefly algorithm
 CM : 
 Naive bays
 SVM
+
